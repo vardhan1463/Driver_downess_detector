@@ -1,0 +1,7 @@
+dlib
+cmake
+scipy
+imutils
+opencv-python
+pygame
+Flask
